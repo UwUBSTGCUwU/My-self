@@ -1,0 +1,11 @@
+.carousel-inner img {
+    width: 100%;
+    height: 500px; /* กำหนดความสูง */
+    object-fit: cover; /* ทำให้รูปภาพครอบเต็มพื้นที่ */
+  }
+  
+  .carousel {
+    max-width: 100%; /* ขยาย Carousel ให้เต็มหน้าจอ */
+    margin: 0 auto; /* จัดให้อยู่กลาง */
+  }
+  

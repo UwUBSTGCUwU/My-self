@@ -1,0 +1,38 @@
+.navbar-brand img {
+    max-width: 150px; /* Adjust to your needs */
+    max-height: 75px;
+  }
+  
+  .btn-lg {
+    font-size: 1.25rem; /* Larger text size for buttons */
+    padding: 0.5rem 1.5rem; /* Adjust button padding */
+  }
+  
+  .bg-purple {
+    background-color: #800080 !important; /* Purple background */
+  }
+  
+  .text-light {
+    color: #fff !important; /* White text */
+  }
+  
+  .navbar .btn-outline-success {
+    color: #fff !important;
+    border-color: #fff !important;
+  }
+  
+  .navbar .btn-outline-success:hover {
+    background-color: #fff !important;
+    color: #800080 !important;
+  }
+  
+  .navbar .btn-outline-secondary {
+    color: #fff !important;
+    border-color: #fff !important;
+  }
+  
+  .navbar .btn-outline-secondary:hover {
+    background-color: #fff !important;
+    color: #800080 !important;
+  }
+  
