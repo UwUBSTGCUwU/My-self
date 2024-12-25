@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/UwUBSTGCUwU/My-self.git/static/css/main.ad1cb5db.css",
+    "main.js": "/UwUBSTGCUwU/My-self.git/static/js/main.b0450abc.js",
+    "static/js/453.ed3810f9.chunk.js": "/UwUBSTGCUwU/My-self.git/static/js/453.ed3810f9.chunk.js",
+    "static/media/rei-diff.png": "/UwUBSTGCUwU/My-self.git/static/media/rei-diff.a88e6cdc27d3618a6e0d.png",
+    "static/media/logo.svg": "/UwUBSTGCUwU/My-self.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/UwUBSTGCUwU/My-self.git/index.html",
+    "main.ad1cb5db.css.map": "/UwUBSTGCUwU/My-self.git/static/css/main.ad1cb5db.css.map",
+    "main.b0450abc.js.map": "/UwUBSTGCUwU/My-self.git/static/js/main.b0450abc.js.map",
+    "453.ed3810f9.chunk.js.map": "/UwUBSTGCUwU/My-self.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad1cb5db.css",
+    "static/js/main.b0450abc.js"
+  ]
+}
